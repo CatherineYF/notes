@@ -1,1 +1,0 @@
-TypeScript 其实就是 JavaScript 的超集
